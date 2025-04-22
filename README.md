@@ -23,26 +23,22 @@ A full-stack web application built using the MERN stack that allows users to bro
 
 **For Server**:
 
-cd backend
-
-npm install
+-cd backend
+-npm install
 
 **For Client**:
 
-cd client
-
-npm install
+-cd client
+-npm install
 
 
 **Start Backend**:
 
-cd backend
-
-npm run dev
+-cd backend
+-npm run dev
 
 **Start Frontend**:
 
-cd Client
-
-npm run dev
+-cd Client
+-npm run dev
 
