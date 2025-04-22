@@ -1,4 +1,4 @@
- 🌍 Travel Management System
+ 🌍 **Travel Management System**
 
 A full-stack web application built using the MERN stack that allows users to browse, book, and manage travel packages with ease.
 
@@ -21,18 +21,18 @@ A full-stack web application built using the MERN stack that allows users to bro
 
 
 
-For Server:
+**For Server**:
 
 cd backend
 npm install
 
-For Client:
+**For Client**:
 
 cd client
 npm install
 
 
-Start Backend:
+**Start Backend**:
 
 cd backend
 npm run dev
