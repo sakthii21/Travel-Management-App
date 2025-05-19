@@ -33,7 +33,3 @@
 ```bash
 git clone https://github.com/yourusername/lawyer-appointment-booking.git
 cd lawyer-appointment-booking
-
-
-
-
