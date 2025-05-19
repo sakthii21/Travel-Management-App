@@ -34,31 +34,21 @@
 git clone https://github.com/sakthii21/travel-management-App.git
 cd travel-management-system
 
-2. Backend Setup
-bash
-Copy
-Edit
+### 2. Backend Setup
+
+```bash
 cd backend
 npm install
-🔐 Create a .env file inside the backend/ directory:
 
-env
-Copy
-Edit
 PORT=5000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-Start the backend server:
-
-bash
-Copy
-Edit
 npm run dev
-3. Frontend Setup
-bash
-Copy
-Edit
-cd ../frontend
+
+### 3. Frontend Setup
+
+```bash
+cd client
 npm install
 npm start
 
