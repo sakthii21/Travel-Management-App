@@ -1,44 +1,64 @@
- 🌍 **Travel Management System**
+## 🚀 Features
 
-A full-stack web application built using the MERN stack that allows users to browse, book, and manage travel packages with ease.
+- 🔐 **JWT-based Authentication** for Travelers and Admins  
+- 🛂 **Role-Based Access Control** (Traveler / Admin)  
+- 🧳 **Trip Planning & Booking System**  
+- 📅 **View Booked packages**  
+- 🧾 **Ratings and reviews**  
+- 📱 **Responsive UI** for Mobile & Desktop  
 
- 🚀 Features
+---
 
-- User and Admin authentication
-- Browse available travel packages
-- Book a travel package with date and preferences
-- View and manage your bookings
-- Real-time booking status updates
+## 🛠️ Tech Stack
 
+### 🔷 Frontend:
+- React.js  
+- React Router  
+- Axios  
+- Tailwind CSS  
 
- 🛠️ Tech Stack
+### 🔶 Backend:
+- Node.js  
+- Express.js  
+- MongoDB (Mongoose)  
+- JSON Web Token (JWT)  
+- Bcrypt.js (Password Hashing)  
 
-- **Frontend:** React.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Token)
-- **API Testing:** Postman
+---
 
+## 📦 Installation & Setup
 
+### 1. Clone the Repository
 
-**For Server**:
+```bash
+git clone https://github.com/sakthii21/travel-management-App.git
+cd travel-management-system
 
--cd backend
--npm install
+2. Backend Setup
+bash
+Copy
+Edit
+cd backend
+npm install
+🔐 Create a .env file inside the backend/ directory:
 
-**For Client**:
+env
+Copy
+Edit
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+Start the backend server:
 
--cd client
--npm install
-
-
-**Start Backend**:
-
--cd backend
--npm run dev
-
-**Start Frontend**:
-
--cd Client
--npm run dev
+bash
+Copy
+Edit
+npm run dev
+3. Frontend Setup
+bash
+Copy
+Edit
+cd ../frontend
+npm install
+npm start
 
