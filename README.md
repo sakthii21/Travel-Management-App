@@ -28,27 +28,12 @@
 
 ## 📦 Installation & Setup
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sakthii21/travel-management-App.git
-cd travel-management-system
+git clone https://github.com/yourusername/lawyer-appointment-booking.git
+cd lawyer-appointment-booking
 
-### 2. Backend Setup
 
-```bash
-cd backend
-npm install
 
-PORT=5000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-npm run dev
-
-### 3. Frontend Setup
-
-```bash
-cd client
-npm install
-npm start
 
