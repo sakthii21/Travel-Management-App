@@ -34,15 +34,6 @@
 git clone https://github.com/sakthii21/Travel-Management-App.git
 cd lawyer-appointment-booking
 
-```bash
-Navigate to the backend folder
-cd backend
-npm install
-
-Create a .env file and add your environment variables
-
-# Run the backend server
-npm run dev
 
 
 
