@@ -34,8 +34,9 @@
 git clone https://github.com/yourusername/lawyer-appointment-booking.git
 cd lawyer-appointment-booking
 
+---
 
-# Navigate to the backend folder
+## Navigate to the backend folder
 cd backend
 
 # Install dependencies
@@ -44,4 +45,7 @@ npm install
 # Create a .env file and add your environment variables
 
 # Run the backend server
-npm start
+npm run dev
+
+
+
