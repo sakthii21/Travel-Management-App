@@ -31,18 +31,15 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/lawyer-appointment-booking.git
+git clone https://github.com/sakthii21/Travel-Management-App.git
 cd lawyer-appointment-booking
 
----
-
-## Navigate to the backend folder
+```bash
+Navigate to the backend folder
 cd backend
-
-# Install dependencies
 npm install
 
-# Create a .env file and add your environment variables
+Create a .env file and add your environment variables
 
 # Run the backend server
 npm run dev
